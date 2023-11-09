@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Stannp\Stannp\helper;
+namespace Stannp\Helper;
 
 class CountryHelper 
 {
